@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Enemy
+  - Bullet
+  - heart
+  - PowerUp
+  - MovingPlatform
+  - Points
+  - Background
+  - bodyCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hidden
+    uniqueID: 696713173
+    locked: 0
+  - name: Walls
+    uniqueID: 2437420437
+    locked: 0
+  - name: Ground
+    uniqueID: 476594801
+    locked: 0
+  - name: Player
+    uniqueID: 2961420049
+    locked: 0
+  - name: Grass
+    uniqueID: 2409426859
+    locked: 0
+  - name: powerUp
+    uniqueID: 688888643
+    locked: 0
+  - name: water
+    uniqueID: 3547077713
+    locked: 0
